@@ -1,0 +1,17 @@
+*{
+	border:red 1px dashed;
+	margin:2px;
+	padding:2px;
+}
+.wrapper{
+	background-color:gray;
+	height:1000px;
+	width:1000px;
+	padding:10px;
+}
+	.side{
+	display:inline-block;
+	height:800px;
+	width:400px;
+	background-color:lightblue;
+	}
